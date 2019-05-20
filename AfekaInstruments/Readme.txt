@@ -1,0 +1,1 @@
+The application organizes a store of musical instruments with java GUI.
