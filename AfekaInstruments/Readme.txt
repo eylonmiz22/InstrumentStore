@@ -1,1 +1,1 @@
-The application organizes a store of musical instruments with java GUI.
+The application organizes a store of musical instruments written in JAVA language using JavaFx GUI.
